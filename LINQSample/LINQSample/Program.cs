@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace LINQSample
 {
+    //写的挺好的，继续加油
     internal class Program
     {
         static void Main(string[] args)
